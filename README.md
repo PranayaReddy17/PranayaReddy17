@@ -52,5 +52,5 @@ Also exploring: microservices observability and open-source contributions in the
 I'm actively looking for full-time remote roles in full stack development. If you're building something serious and need someone who can hit the ground running — reach out.
 
 📧 nalabolupranayareddy@gmail.com
-💼 [linkedin.com/in/pranayareddy](https://linkedin.com/in/pranayareddy)
+💼 [linkedin.com/in/pranayareddy](https://www.linkedin.com/in/pranayareddynalabolu/)
 📍 Irving, TX · Remote OK
